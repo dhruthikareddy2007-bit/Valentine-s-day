@@ -123,7 +123,7 @@
         <div class="emoji">💝</div>
         
         <div class="message">
-            <strong>Message 1:</strong> Amit, you are the most wonderful person in my life. Every moment with you is a gift that I cherish forever. Happy Valentine's Day! <span class="heart">❤️</span>
+            <strong>Message 1:</strong> Amit, you are the most wonderful person in my life.Every moment with you is a gift that I cherish forever. Happy Valentine's Day! <span class="heart">❤️</span>
         </div>
         
         <div class="message">
